@@ -1,5 +1,7 @@
-# 简易简历分析器
+# 简易中文简历分析器
 作者：Shengdong Lu
+
+github repository：https://github.com/LuShengDong/resumeparsing.git
 
 ## 使用方法
 1. 安装 python 3.5
